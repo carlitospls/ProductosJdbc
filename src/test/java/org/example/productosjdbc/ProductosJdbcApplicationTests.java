@@ -1,0 +1,13 @@
+package org.example.productosjdbc;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class ProductosJdbcApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
